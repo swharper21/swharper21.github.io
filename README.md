@@ -1,5 +1,5 @@
 # swharper21.github.io
-shrimp-and-fin
+
 #include "global.h"
 #include "quake.h"
 #include "z64camera.h"
